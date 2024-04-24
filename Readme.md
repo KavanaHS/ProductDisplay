@@ -27,8 +27,7 @@ Product data is fetched from the following API endpoint:
 https://cdn.shopify.com/s/files/1/0564/3685/0790/files/multiProduct.json
 ```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
